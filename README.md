@@ -42,7 +42,19 @@ v14.17.3
 
 [Learn more about installing Nodejs](https://nodejs.dev/learn/how-to-install-nodejs)
 
-> 😳 **Need help?** Try searching the [Community](https://community.draftbit.com) &mdash; which are a great resource for troubleshooting.
+
+## Installing Cloud Firebase
+
+yarn add @react-native-firebase/app
+          OR
+expo install firebase
+
+
+## Installing Cloud Firestore
+//make sure firebase already installed
+
+yarn add @react-native-firebase/firestore
+
 
 ## Installing Expo CLI
 
@@ -77,7 +89,7 @@ $ yarn
 
 ## Running
 
-To start your project, simply run: `yarn start` inside of the project directory
+To start your project, simply run: `expo start` inside of the project directory
 (make sure you've [installed the dependencies
 locally](#install-local-dependencies) first). This should open the Expo
 developer tools in a browser tab.
@@ -107,7 +119,14 @@ The fastest way to get up and running is to use the Expo Go app on your iOS or A
     ├── config                 # JS representation of fonts, images, themes, and more
         └── Themes.js          # Example file for your app's themes
     ├── screens                # React Native code for the screens you built.
-    │   └── MyFirstScreen.js   # Example file for the screen named "My First Screen"
+    │   └── BasicLoginScreen.js   # Example file for the screen named "BasicLoginScreen"
+    │   └── CreateAccountOptionsScreen.js
+    │   └── HomeScreen.js
+    │   └── ListofAuthorsScreen.js
+    │   └── NewCalendar.js
+    │   └── PostmeetingsurveyScreen.js
+    │   └── thankYou.js
+    │   └── TimeSlot.js   
     ├── components.js          # All your custom components
     ├── .gitignore             # List of files to ignore when comitting with Git
     ├── App.js                 # Entry point for your app
