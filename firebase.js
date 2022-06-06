@@ -11,12 +11,7 @@ import { getFirestore } from "firebase/firestore";
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyABs5ghfbEOzqXBx0qjqS1vRL9-dmDpSRs",
-    authDomain: "fir-auth-1ce56.firebaseapp.com",
-    projectId: "fir-auth-1ce56",
-    storageBucket: "fir-auth-1ce56.appspot.com",
-    messagingSenderId: "538165954086",
-    appId: "1:538165954086:web:b4da8efac2d632cfb308e7"
+    // unique configuration when setting up firebase
   };
 
 
