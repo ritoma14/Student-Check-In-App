@@ -4,6 +4,9 @@
 
 <img width="346" alt="CSUHomepage" src="https://user-images.githubusercontent.com/59907246/172256852-f419478e-7df9-4940-96b6-3df264604db1.png">
 
+<img width="355" alt="AssistOptions" src="https://user-images.githubusercontent.com/59907246/172257183-3d79a789-d192-4698-b504-531791af26f8.png">
+
+
 
 ## Requirements
 - [Node.js LTS release](https://nodejs.org/en/). As of 07/21 this is 14.17+
