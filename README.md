@@ -1,4 +1,5 @@
 # Welcome to the Student Check-In App
+![Screen Shot 2022-06-06 at 6 04 36 PM](https://user-images.githubusercontent.com/59907246/172257023-0a688831-55b2-4611-ad50-f2a70b03490f.png)
 
 
 <img width="346" alt="CSUHomepage" src="https://user-images.githubusercontent.com/59907246/172256852-f419478e-7df9-4940-96b6-3df264604db1.png">
