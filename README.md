@@ -6,6 +6,8 @@
 - [Git](https://git-scm.com/)
 - [Watchman](https://facebook.github.io/watchman/docs/install#buildinstall) for macOS users
 - [Yarn](https://classic.yarnpkg.com/en/docs/install) use this over `npm install` when installing dependencies
+- [Cloud Firebase] [(https://rnfirebase.io/)]
+- [Cloud Firestore] (https://rnfirebase.io/firestore/usage)
 
 > Only Node.js LTS releases (even-numbered) are recommended. As Node.js [officially states](https://nodejs.org/en/about/releases/), "Production applications should only use Active LTS or Maintenance LTS releases."
 
