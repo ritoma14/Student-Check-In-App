@@ -6,6 +6,7 @@
 
 <img width="355" alt="AssistOptions" src="https://user-images.githubusercontent.com/59907246/172257183-3d79a789-d192-4698-b504-531791af26f8.png">
 
+<img width="360" alt="choose_advisor" src="https://user-images.githubusercontent.com/59907246/172257248-6fc7941e-0331-4aad-9835-2adeb9c62eec.png">
 
 
 ## Requirements
