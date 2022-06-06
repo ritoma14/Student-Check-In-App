@@ -8,6 +8,9 @@
 
 <img width="360" alt="choose_advisor" src="https://user-images.githubusercontent.com/59907246/172257248-6fc7941e-0331-4aad-9835-2adeb9c62eec.png">
 
+![Picture1](https://user-images.githubusercontent.com/59907246/172258088-158a265e-c2f9-4ec4-88ba-50e6ac974366.png)
+
+
 
 ## Requirements
 - [Node.js LTS release](https://nodejs.org/en/). As of 07/21 this is 14.17+
