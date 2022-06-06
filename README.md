@@ -10,7 +10,9 @@
 
 ![Picture1](https://user-images.githubusercontent.com/59907246/172258088-158a265e-c2f9-4ec4-88ba-50e6ac974366.png)
 
-
+<img width="354" alt="survey_questions" src="https://user-images.githubusercontent.com/59907246/172258218-62603e52-5f6a-4d2a-b790-a11da0022a53.png">
+<img width="356" alt="surveySubmission" src="https://user-images.githubusercontent.com/59907246/172258230-cfe7b8aa-dfbc-4369-8cd1-33e1e472d1e6.png">
+<img width="337" alt="PostSurvey" src="https://user-images.githubusercontent.com/59907246/172258243-4a409aa0-c935-40b6-a363-f876e5d9c39b.png">
 
 ## Requirements
 - [Node.js LTS release](https://nodejs.org/en/). As of 07/21 this is 14.17+
