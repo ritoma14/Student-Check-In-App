@@ -1,4 +1,7 @@
 # Welcome to the Student Check-In App
+App Appearance:
+
+<img width="431" alt="signInPage" src="https://user-images.githubusercontent.com/59907246/172256488-d948725d-9973-4c0b-8de7-513ea1bbdd43.png">
 
 ## Requirements
 - [Node.js LTS release](https://nodejs.org/en/). As of 07/21 this is 14.17+
