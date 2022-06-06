@@ -1,7 +1,8 @@
 # Welcome to the Student Check-In App
-App Appearance:
 
-<img width="431" alt="signInPage" src="https://user-images.githubusercontent.com/59907246/172256488-d948725d-9973-4c0b-8de7-513ea1bbdd43.png">
+
+<img width="346" alt="CSUHomepage" src="https://user-images.githubusercontent.com/59907246/172256852-f419478e-7df9-4940-96b6-3df264604db1.png">
+
 
 ## Requirements
 - [Node.js LTS release](https://nodejs.org/en/). As of 07/21 this is 14.17+
