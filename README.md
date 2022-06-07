@@ -134,19 +134,19 @@ The fastest way to get up and running is to use the Expo Go app on your iOS or A
 ```
 .
     ├── assets                 # Static assets like images and fonts.
-    ├── config                 # JS representation of fonts, images, themes, and more
-        └── GlobalVariableContext.js          # Example file for your app's themes
+    ├── config                              # JS representation of fonts, images, themes, and more
+        └── GlobalVariableContext.js        # Example file for your app's themes
         └── images.js 
         └── CacheAssetsAsync.js 
-    ├── screens                # React Native code for the screens you built.
-    │   └── BasicLoginScreen.js   # Example file for the screen named "BasicLoginScreen"
-    │   └── CreateAccountOptionsScreen.js
-    │   └── HomeScreen.js
-    │   └── ListofAuthorsScreen.js
-    │   └── NewCalendar.js
-    │   └── PostmeetingsurveyScreen.js
-    │   └── thankYou.js
-    │   └── TimeSlot.js   
+    ├── screens                             # React Native code for the screens you built.
+       └── BasicLoginScreen.js              # Example file for the screen named "BasicLoginScreen"
+       └── CreateAccountOptionsScreen.js
+       └── HomeScreen.js
+       └── ListofAuthorsScreen.js
+       └── NewCalendar.js
+       └── PostmeetingsurveyScreen.js
+       └── thankYou.js
+       └── TimeSlot.js   
     ├── components.js          # All your custom components
     ├── .gitignore             # List of files to ignore when comitting with Git
     ├── App.js                 # Entry point for your app
