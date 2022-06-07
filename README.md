@@ -25,7 +25,6 @@
 - [Cloud Firebase](https://rnfirebase.io/)
 - [Cloud Firestore](https://rnfirebase.io/firestore/usage)
 
-> Only Node.js LTS releases (even-numbered) are recommended. As Node.js [officially states](https://nodejs.org/en/about/releases/), "Production applications should only use Active LTS or Maintenance LTS releases."
 
 ## Recommended Tools
 
@@ -81,11 +80,6 @@ You can install the Expo CLI using the following command. *This is the one spot 
 ```
 $ npm install -g expo-cli
 ```
-
-Verify that the installation was successful by running `expo whoami`. You're not logged in yet, so you will see "Not logged in". You can create an account by running `expo register` if you like, or if you have one already run `expo login`, but you also don't need an account to get started.
-
-[Learn more about Expo CLI here](https://docs.expo.io/get-started/installation/#installing-expo-cli)
-
 
 ## Install Project Dependencies
 
