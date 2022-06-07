@@ -14,6 +14,8 @@
 <img width="356" alt="surveySubmission" src="https://user-images.githubusercontent.com/59907246/172258230-cfe7b8aa-dfbc-4369-8cd1-33e1e472d1e6.png">
 <img width="337" alt="PostSurvey" src="https://user-images.githubusercontent.com/59907246/172258243-4a409aa0-c935-40b6-a363-f876e5d9c39b.png">
 
+<img width="1142" alt="example_saved_survey" src="https://user-images.githubusercontent.com/59907246/172273829-be505383-465e-4d5b-a588-78215a061487.png">
+
 ## Requirements
 - [Node.js LTS release](https://nodejs.org/en/). As of 07/21 this is 14.17+
 - [Expo CLI](https://docs.expo.io/get-started/installation)
