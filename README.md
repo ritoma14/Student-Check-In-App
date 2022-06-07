@@ -156,9 +156,6 @@ The fastest way to get up and running is to use the Expo Go app on your iOS or A
     └── README.md              # This file!
 ```
 
-## Publishing your app to the App Store
-
-Expo has really great documentation for how to get started. [Click here](https://docs.expo.io/distribution/building-standalone-apps/) to learn more.
 
 ## Troubleshooting
 
@@ -169,35 +166,3 @@ commands will also show up in the browser. If you cannot fix these errors, you
 should refer to Expo's documentation on [debugging
 Javascript](https://docs.expo.io/workflow/debugging/).
 
-## FAQ
-
-- _How can I add my code to GitHub?_
-
-  Pushing your code to GitHub is easy! Follow the information
-  [guide](https://help.github.com/en/github/getting-started-with-github/create-a-repo)
-  to create your repository and commit your project code.
-
-- _How do I build a binary for the App and Play store?_
-
-  Expo published an [excellent
-  guide](https://docs.expo.io/versions/latest/distribution/app-stores/) for
-  deploying to the Apple iTunes Store and the Google Play Store. Moreover, for
-  users with an iOS Enterprise certifcate, [Expo has information about using
-  the certificate to build your apps](https://docs.expo.io/versions/latest/distribution/building-standalone-apps/#if-you-choose-to-build-for-ios).
-
-- _What/where is the license for this code?_
-
-  There's no license by default, but if you create a GitHub repository for your
-  project code, for example, [adding a license is
-  easy](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository).
-
-- _Can I run Expo web with this?_
-
-  Of course! See [this](https://docs.expo.io/versions/v37.0.0/bare/using-web/#__next) guide by Expo for running your React Native app in
-  a web browser.
-
-- _What libraries does this code depend on?_
-
-  You can see the full list in your projects `package.json` file (under the
-  `dependencies` section), but a few of our dependencies are `react-navigation`,
-  `react-native-screens`, and `expo-av`.
